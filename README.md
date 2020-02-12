@@ -1,4 +1,4 @@
-# BabyYodaAdventures
+[![Run on Repl.it](https://repl.it/badge/github/larvailor/BabyYodaAdventures)](https://repl.it/github/larvailor/BabyYodaAdventures)# BabyYodaAdventures
 2d game with basic ECS. Using SFML
 
 ![](readme/BabyYodaAdventures.gif)
