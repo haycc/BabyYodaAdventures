@@ -5,7 +5,7 @@
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
-
+[![Run on Repl.it](https://repl.it/badge/github/haycc/BabyYodaAdventures)](https://repl.it/github/haycc/BabyYodaAdventures)
 ### Prerequisites
 
 
